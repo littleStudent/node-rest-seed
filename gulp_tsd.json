@@ -1,0 +1,8 @@
+{
+        "command": "reinstall", 
+        "latest": false,         
+        "config": "./tsd.json", 
+        "opts": {
+           
+        }
+    }
